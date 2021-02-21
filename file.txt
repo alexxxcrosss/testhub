@@ -1,0 +1,22 @@
+вот это новый файл
+вот это новый файл
+.
+..
+file.txt
+.babelrc
+index.html
+dist
+new-fille.js
+node_modules
+.fkkjjile.txt.swp
+webpack.config.js
+.gitignore
+package-lock.json
+package.json
+build
+.git
+.browserslistrc
+тrbagaо новый файл
+вот этr tовый ф
+sоsion это sовыsinsфайлвоsion это новый файл вот это новый файл
+this is new esionommit
